@@ -16,3 +16,4 @@ Xinxuan Shen
 Ulysses Martinez Fermin    
 Alex Soja    
 Sammie Brish
+Madison Miller
