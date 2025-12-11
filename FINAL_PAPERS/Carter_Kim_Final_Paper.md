@@ -58,11 +58,11 @@ Unlike a standalone utility app, the local cafe siren order platform relies on a
 
 1.The partner network (local cafe owners) The foundation of our community is the network of local coffee shops. Unlike big franchises, these owners often lack technical expertise but possess deep knowledge of coffee.
 
-  1a) Engagement strategy: we will establish a Partner council, a small group of early adopter cafe owners who provide direct feedback on the dashboard's usability and operational workflow.
-   
-  1b) Support & education: Instead of standard technical documentation, we will provide operational playbooks and video guides on how to integrate mobile orders into a busy barista workflow without disrupting service quality. 
-  
-  1c))Value proposition: by framing the app as a "Small Business Alliance," we foster a sense of solidarity among owners, encouraging them to promote the app to their loyal customers as a way to support local commerce. 
+    1a) Engagement strategy: we will establish a Partner council, a small group of early adopter cafe owners who provide direct feedback on the dashboard's usability and operational workflow.
+     
+    1b) Support & education: Instead of standard technical documentation, we will provide operational playbooks and video guides on how to integrate mobile orders into a busy barista workflow without disrupting service quality. 
+    
+    1c))Value proposition: by framing the app as a "Small Business Alliance," we foster a sense of solidarity among owners, encouraging them to promote the app to their loyal customers as a way to support local commerce. 
 
 2.The user community (coffee enthusiasts) For the consumers, the community strategy shifts from "utility" to "discovery and taste." The goal is to turn passive customers into active advocates for local coffee.
    
