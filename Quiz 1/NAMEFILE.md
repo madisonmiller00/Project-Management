@@ -21,3 +21,4 @@ Connor Slattery
 Isaac Chin   
 Satyam Malhotra   
 Alina Tai   
+Anish Gadre
