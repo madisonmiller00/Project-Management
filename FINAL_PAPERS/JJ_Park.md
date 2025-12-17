@@ -1,6 +1,6 @@
 # UniMarket: A Trust-Based Open Source Marketplace for University Students
 
-**Name:** JJ Parm
+**Name:** JJ Park
 **Semester:** Fall 2025  
 **Personal Website:** https://github.com/jjpark00
 
