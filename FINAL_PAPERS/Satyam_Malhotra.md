@@ -28,6 +28,9 @@ Soothe is a personalized stress management app made to help individuals manage t
 By creating a 3-phase plan, implementing important course material, and using an open-source technology stack, our team is able to present a fully operational stress management app. This app not only can manage your stress levels but can also track your heart rate and skin conductance to stay updated on your health as a whole. With Soothe, it displays how a technology that utilizes automation can be beneficial for countless people. This project also depicts the importance of human-computer interaction and how, by working with an emphasis on teamwork and collaboration, anything can be done to create a meaningful product.
 ## References
 Bradley, A. (2025). Integrative Project Management: Funding, Economics, and Commercialization. University of Illinois at Urbana-Champaign. 
+
 Bulo, J. G., & Sanchez, M. G. (2014). Sources of stress among college students. CVCITC Research Journal, 1(1), 16-25.
+
 Gupta, I. (2024, November 25). Why choose react native for mobile app development?. RipenApps. https://ripenapps.com/blog/react-native-for-mobile-app-development/ 
+
 Nowak, K. (2023, November). When young adults preparing to enter the workforce find task support stressful: an investigation on individual differences and implications for human resource management. In Evidence-based HRM: a Global Forum for Empirical Scholarship (Vol. 11, No. 4, pp. 695-708). Emerald Publishing Limited.
